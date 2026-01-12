@@ -1,4 +1,3 @@
-```markdown
 # Kubernetes Node Management & Scheduling – Complete Guide
 
 This repository documents **core Kubernetes node operations and scheduling concepts**, along with **hands-on commands** using both **kubectl** and **k9s**.
